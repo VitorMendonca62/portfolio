@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57 51" width="57" height="51">
+	<title>Rectangle 220-svg</title>
+	<defs>
+		<image  width="38" height="41" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAApCAMAAAButatJAAAAAXNSR0IB2cksfwAAAFpQTFRFJQIPJgIPJwMPJgMPJgIPJQIPJQIPKAMQAAAAKQQPKQYT//X1JgIPLQUQNAgRKQQQJwQRKQQPJgMQ/vT0/fPz/wAAJQIPJQIP/PLyJQIPJQIPKAUSJwUSKAYSxt25+AAAAB50Uk5T//7x//f76wcAFv////////8X////Af4A/xcH////IyC5qgAAAK1JREFUeJzN0+sSgiAQBeDTfdPKguze+79mNkKugLDGNNP5IywfO64zAoJMphKF2VzEsJAxYYTdllhJGGEtY2RWRRmKx/DvrHlstrsqMinY5Xy2T7BDu1LsxbXJ0aqG1ZFJGaN8Vn3dzUkm4/Xfs1OSnd+MWL28mDPF2PXmsdB3IxrPPKe7CThzZFf1mJW6Vwox3NWjQJrh6ewHmJdxLA5bQDaDpM/o84+Z1OzoBYD0Fv9jCconAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer" href="#img1" x="10" y="10"/>
+</svg>
